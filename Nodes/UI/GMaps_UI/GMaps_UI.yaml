@@ -1,0 +1,5 @@
+Name: GMaps_UI
+Type: FolderType
+Children:
+- File: Screens1/Screens1.yaml
+- File: Widgets/Widgets.yaml
